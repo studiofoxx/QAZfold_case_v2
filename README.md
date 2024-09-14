@@ -7,5 +7,5 @@ If you plan on printing the case without modification I recommend using the v3 v
 
 If you dont want to measure or dont have the means, use the v3 version right away as I know it fits.
 
-TODO: The design is great to close up the sides, but I still feel the entire thing can be used as a case.
+TODO: The design is great to close up the sides, but I still feel the entire thing can be easily enclosed.
 I plan on implementing a bottom piece that fits together with the side pieces, as a full three piece, interlocking case design.
