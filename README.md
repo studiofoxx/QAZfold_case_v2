@@ -1,5 +1,12 @@
-# QAZfold_case_v2
+# QAZfold_case_v4
 This is a side case design for the QAZfold created by sumandrew and scaled to fit the R1 dimensions.
+v4 is measured and printed. Fits the bottom.
+
+
+
+
+***below is for refrence only***
+
 V2 was still too short so I scaled it further. The v2 may not fit all cases so please make sure you measure to fit your board.
 
 **The v2.3 case design was never tested, it was just designed based off corrective measurements of the v2.
